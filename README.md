@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnprMXg3cnB6aGJiZnV2NjZ2ODQ3bmVndWczZHlxbTdpMzFra2l1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j9v8JX0CxPMbylXJLN/giphy.gif" alt="Banner" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGFhdHVjNGQzbHJ6YWgydXdybmZpcnp2a2thbmtuZHhlc3hqejB1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7c4XuVMS8wrz4rWNsy/giphy.gif" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - Web Development
