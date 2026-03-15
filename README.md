@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/07/ba/0e/07ba0e548544b6a63872725089a0f3bc.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/55/6d/66/556d6664a670db95f855ebb2948e0d40.gif" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - Web Development
