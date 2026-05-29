@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://static.vecteezy.com/system/resources/previews/020/900/816/non_2x/hand-wave-waving-hi-or-hello-icon-free-vector.jpg" height="30px" width="30px"> I'm DV DT</h1>
+<h1 align="center">Hey <img src="https://www.citypng.com/public/uploads/preview/waving-emoji-hand-hello-icon-png-701751694961585jlyddzu2lk.png" height="30px" width="30px"> I'm DV DT</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=shivapatel2">
